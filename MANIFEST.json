@@ -1,0 +1,48 @@
+{
+ "collection_info": {
+  "namespace": "ibm",
+  "name": "ibm_zos_core",
+  "version": "1.4.0-beta.1",
+  "authors": [
+   "Demetrios Dimatos <ddimatos@us.ibm.com>",
+   "Behnam Al Kajbaf <behnam@ibm.com>",
+   "Andrew Nguyen <andy.nguyen@ibm.com>",
+   "Radha Varadachari <radha.varadachari@ibm.com>",
+   "Rich Parker <richp@ibm.com>",
+   "Ketan Kelkar <ketan.kelkar@ibm.com>"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "ibm",
+   "z",
+   "zos",
+   "z_os",
+   "core",
+   "zos_core",
+   "ibm_zos_core",
+   "data_set",
+   "jcl",
+   "uss",
+   "mvs"
+  ],
+  "description": "The IBM z/OS core collection includes connection plugins, action plugins, modules, filters and ansible-doc to automate tasks on z/OS.",
+  "license": [
+   "GPL-3.0-only",
+   "Apache-2.0"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "https://github.com/ansible-collections/ibm_zos_core",
+  "documentation": "https://ibm.github.io/z_ansible_collections_doc/index.html",
+  "homepage": "https://www.ibm.com/support/z-content-solutions/ansible/",
+  "issues": "https://github.com/ansible-collections/ibm_zos_core/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "8e5ffaa4383db42f9852a88a9efd33f72060f6e14063988a817816dc7d7c732f",
+  "format": 1
+ },
+ "format": 1
+}
